@@ -29,6 +29,7 @@ body {
     color: var(--text-color);
 }
 .btn {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
@@ -220,6 +221,11 @@ body {
 }
 
 /**---------- PROJECT -------------*/
+
+.btn:hover {
+    background-color: #2196f3;
+    color: #fff;
+}
 
 .project {}
 
