@@ -183,10 +183,7 @@ body {
     line-height: 1.71;
     color: var(--second-color);
 }
-.custom-color {
-    color: var(--link-accent-color);
-}
 .footer-address-link:hover,
 .footer-address-link:focus {
-    color: var(--accent-color);
+    color: var(--text-color);
 }
